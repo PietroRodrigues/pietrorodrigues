@@ -94,19 +94,3 @@ I continuously develop my skills through personal projects, learning new technol
 <h1>Statistics</h1>
 
 </div>
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://streak-stats.demolab.com?user=PietroRodrigues&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8&background=18181B&stroke=27272A&ring=3FB950&fire=3FB950&currStreakNum=E5E5E5&sideNums=A3A3A3&currStreakLabel=3FB950&sideLabels=A3A3A3&dates=737373" height="150" />
-</td>
-
-<td>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PietroRodrigues&show_icons=true&theme=dark&hide_border=true&bg_color=18181B&title_color=3FB950&text_color=A3A3A3&icon_color=3FB950" height="150" />
-</td>
-</tr>
-</table>
-
-</div>
