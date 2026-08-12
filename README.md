@@ -86,11 +86,3 @@ I continuously develop my skills through personal projects, learning new technol
 ![Linux](https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=3FB950)
 
 ---
-
-<br>
-
-<div align="center">
-
-<h1>Statistics</h1>
-
-</div>
